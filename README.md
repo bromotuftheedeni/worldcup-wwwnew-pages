@@ -1,2 +1,14 @@
 # worldcup-wwwnew-pages
-HTML page archive and documentation
+
+页面发布与维护记录
+
+本仓库作为页面文件的落地点，保存发布后的独立页面。
+
+## 仓库结构
+
+- `README.md`：说明文本
+- `*.html`：可发布页面
+
+## 备注
+
+仓库内容用于静态页面归档，具体页面请以 HTML 文件为准。
